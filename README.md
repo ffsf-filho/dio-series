@@ -13,7 +13,7 @@ básica que fosse capaz de armazenar na mémoria algumas informações sobre sé
 ### Instruções
 
 1. Fazer Downloading do projeto
-  <a href="https://github.com/ffsf-filho/squad12/archive/main.zip">Download ZIP</a>
+  <a href="https://github.com/ffsf-filho/dio-series/archive/main.zip">Download ZIP</a>
     
     OU
     

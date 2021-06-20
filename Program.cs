@@ -120,6 +120,7 @@ namespace dio_series
             Console.WriteLine($"Dio Series a seu dispor!!!");
             Console.WriteLine($"Informe a opção desejada:");
             Console.WriteLine($"===============================================");
+            Console.WriteLine();
             Console.WriteLine($"1 - Listar séries");
             Console.WriteLine($"2 - Inserir nova série");
             Console.WriteLine($"3 - Atualizar  série");
@@ -132,7 +133,8 @@ namespace dio_series
             Console.WriteLine($"X - Sair");
             Console.WriteLine();
             Console.WriteLine($"===============================================");
-            
+            Console.WriteLine();
+
             string opcaoUsuario = Console.ReadLine().ToUpper();
             return opcaoUsuario;
         }
